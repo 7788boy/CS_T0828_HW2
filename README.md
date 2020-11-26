@@ -1,9 +1,9 @@
 # Project: Object detection
 
 ## Overview
-The target of this homework is object detection and recognize numbers.  
-Training 11185 pictures with cars in different type and 196 labels.   
-I use Detectron and Fast RCNN as pretrained model.  
+The target of this homework is object detection.  
+Training on SVHN dataset with digits in different types and trying to detect and recognize number zero to nine.  
+I use Faster-RCNN as a pretrained model.
 
 ## Hardware
 The following specs were used to create the original solution.
@@ -40,8 +40,8 @@ python Test.py
 ```
 
 ## Reference
-https://papers.nips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf
-http://ufldl.stanford.edu/housenumbers/
-https://github.com/facebookresearch/detectron2
+https://papers.nips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf  
+http://ufldl.stanford.edu/housenumbers/  
+https://github.com/facebookresearch/detectron2  
 
 ###### tags: `Object detection` `Deep learning` `NCTU CS` `Faster-RCNN` `Detectron`
