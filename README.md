@@ -13,7 +13,7 @@ The following specs were used to create the original solution.
 
 ## Download Official Image
 You can download the training and testing dataset from Google Drive.  
-https://drive.google.com/drive/folders/1Ob5oT9Lcmz7g5mVOcYH3QugA7tV3WsSl  
+https://drive.google.com/drive/folders/1VHW53unZJoPN8Bu1aN4FUq6SXAT60lOJ?usp=sharing  
 
 ## Installation
 * Linux or macOS with Python ≥ 3.6
